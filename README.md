@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nirmal127001
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning algorithms
+- 👋 Hi, I’m Nirmal.
+- 👀 Coding 🧡
+- 🌱 Machine Learning enthusiast.
 - 📫 Mail me at nirmalkr805@gmail.com
 
 <!---
