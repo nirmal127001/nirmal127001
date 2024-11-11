@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirmal.
 - 👀 Data Engineer
-- 📫 Mail me at nirmalkr805@gmail.com
+- 📫 Find me at https://www.linkedin.com/in/nirmal-kumar-developer
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/nirmalkumar)
 <!---
 nirmal127001/nirmal127001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
