@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nirmal.
-- 👀 Coding 🧡
-- 🌱 Machine Learning enthusiast.
+- 👀 Data Engineer
 - 📫 Mail me at nirmalkr805@gmail.com
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/nirmalkumar)
 <!---
